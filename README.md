@@ -19,3 +19,16 @@
 [Source code for vocabulary extension]()
 
 
+Citation:
+
+@InProceedings{toraman2022large,
+  author    = {Toraman, Cagri},
+  title     = {LlamaTurk: Adapting Open-Source Generative Large Language Models for Low-Resource Language},
+  booktitle = {},
+  month     = {},
+  year      = {2024},
+  address   = {},
+  publisher = {},
+  pages     = {},
+  url       = {}
+}
