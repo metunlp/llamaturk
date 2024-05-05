@@ -20,7 +20,7 @@
 
 
 Citation:
-
+```
 @InProceedings{toraman2022large,
   author    = {Toraman, Cagri},
   title     = {LlamaTurk: Adapting Open-Source Generative Large Language Models for Low-Resource Language},
@@ -32,3 +32,4 @@ Citation:
   pages     = {},
   url       = {}
 }
+```
