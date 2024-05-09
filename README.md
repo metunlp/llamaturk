@@ -8,9 +8,9 @@
 
 [Dataset used in tasks-specific fine-tuning](https://huggingface.co/datasets/maydogan/TRSAv1)
 
-[Benchmark dataset: Belebele](https://huggingface.co/datasets/facebook/belebele/viewer/default/tur_Latn)
+[Evaluation benchmark dataset: Belebele](https://huggingface.co/datasets/facebook/belebele/viewer/default/tur_Latn)
 
-[Benchmark dataset: XCOPA](https://huggingface.co/datasets/xcopa/viewer/tr)
+[Evaluation benchmark dataset: XCOPA](https://huggingface.co/datasets/xcopa/viewer/tr)
 
 [Source code for instruction fine-tuning](src/finetune_instruction.py)
 
