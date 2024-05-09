@@ -2,7 +2,7 @@
 
 [Paper](https://arxiv.org/)
 
-[Published Models: LlamaTurk](https://huggingface.co/metunlp)
+[Published Models: LlamaTurk (to run PEFT models, see inference code below)](https://huggingface.co/metunlp)
 
 [Instruction set used in instruction fine-tuning](llamaturk_instruction_set.json)
 
@@ -10,7 +10,7 @@
 
 [Benchmark dataset: Belebele](https://huggingface.co/datasets/facebook/belebele/viewer/default/tur_Latn)
 
-[Benchmark dataset: Belebele](https://huggingface.co/datasets/xcopa/viewer/tr)
+[Benchmark dataset: XCOPA](https://huggingface.co/datasets/xcopa/viewer/tr)
 
 [Source code for instruction fine-tuning](src/finetune_instruction.py)
 
@@ -20,6 +20,7 @@
 
 [Source code for vocabulary extension](src/vocabulary_extension.py)
 
+[Source code for inference](src/inference.py)
 
 Citation:
 ```
