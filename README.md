@@ -2,7 +2,7 @@
 
 [Paper](https://arxiv.org/)
 
-[Published Models: LlamaTurk (to run PEFT models, see inference code below)](https://huggingface.co/metunlp)
+[Published Models (to run PEFT models, see inference code below)](https://huggingface.co/metunlp)
 
 [Instruction set used in instruction fine-tuning](llamaturk_instruction_set.json)
 
