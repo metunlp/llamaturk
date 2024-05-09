@@ -20,7 +20,7 @@
 
 [Source code for vocabulary extension](src/vocabulary_extension.py)
 
-[Source code for inference](src/inference.py)
+[Source code for model inference](src/inference.py)
 
 Citation:
 ```
