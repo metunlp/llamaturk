@@ -6,19 +6,19 @@
 
 [Instruction set used in instruction fine-tuning](llamaturk_instruction_set.json)
 
-[Task-specific dataset (sentiment analysis) used in tasks-specific fine-tuning](https://huggingface.co/datasets/maydogan/TRSAv1)
+[Dataset used in tasks-specific fine-tuning](https://huggingface.co/datasets/maydogan/TRSAv1)
 
 [Benchmark dataset: Belebele](https://huggingface.co/datasets/facebook/belebele/viewer/default/tur_Latn)
 
 [Benchmark dataset: Belebele](https://huggingface.co/datasets/xcopa/viewer/tr)
 
-[Source code for instruction fine-tuning]()
+[Source code for instruction fine-tuning](src/finetune_instruction.py)
 
-[Source code for task-specific fine-tuning]()
+[Source code for task-specific fine-tuning](src/finetune_task.py)
 
-[Source code for continual training]()
+[Source code for continual training](src/continual_train.py)
 
-[Source code for vocabulary extension]()
+[Source code for vocabulary extension](src/vocabulary_extension.py)
 
 
 Citation:
