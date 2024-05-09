@@ -4,11 +4,13 @@
 
 [Published Models: LlamaTurk](https://huggingface.co/metunlp)
 
-[Instruction set used in fine-tuning LlamaTurk](llamaturk_instruction_set.json)
+[Instruction set used in instruction fine-tuning](llamaturk_instruction_set.json)
 
-[Task-specific dataset (sentiment analysis) used in fine-tuning LlamaTurk](llamaturk_instruction_set.json)
+[Task-specific dataset (sentiment analysis) used in tasks-specific fine-tuning](https://huggingface.co/datasets/maydogan/TRSAv1)
 
-[Benchmark datasets](llamaturk_instruction_set.json)
+[Benchmark dataset: Belebele](https://huggingface.co/datasets/facebook/belebele/viewer/default/tur_Latn)
+
+[Benchmark dataset: Belebele](https://huggingface.co/datasets/xcopa/viewer/tr)
 
 [Source code for instruction fine-tuning]()
 
