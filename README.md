@@ -22,7 +22,11 @@
 
 [Source code for vocabulary extension](src/vocabulary_extension.py)
 
-[Source code for model inference](src/inference.py)
+[Source code for instrinsic evaluation (perplexity calculation)](src/perplexity.py)
+
+[Source code for extrinsic evaluation (task inference)](src/inference_task.py)
+
+[Source code for getting model checkpoints for an adapted model](src/merge_base_and_finetuned_models.py)
 
 Citation:
 ```
