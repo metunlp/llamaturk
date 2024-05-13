@@ -30,7 +30,7 @@
 
 Citation:
 ```
-@InProceedings{toraman2022large,
+@InProceedings{llamaturk2024,
   author    = {Toraman, Cagri},
   title     = {LlamaTurk: Adapting Open-Source Generative Large Language Models for Low-Resource Language},
   booktitle = {},
