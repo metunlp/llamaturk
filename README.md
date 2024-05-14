@@ -30,15 +30,12 @@
 
 Citation:
 ```
-@InProceedings{llamaturk2024,
-  author    = {Toraman, Cagri},
-  title     = {LlamaTurk: Adapting Open-Source Generative Large Language Models for Low-Resource Language},
-  booktitle = {},
-  month     = {},
-  year      = {2024},
-  address   = {},
-  publisher = {},
-  pages     = {},
-  url       = {}
+@misc{toraman2024llamaturk,
+      title={LlamaTurk: Adapting Open-Source Generative Large Language Models for Low-Resource Language}, 
+      author={Cagri Toraman},
+      year={2024},
+      eprint={2405.07745},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
 }
 ```
