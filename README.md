@@ -1,6 +1,6 @@
 # LlamaTurk: Adapting Open-Source Generative Large Language Models for Low-Resource Language
 
-[Paper](https://arxiv.org/)
+[Paper](https://arxiv.org/abs/2405.07745)
 
 [Published Models (to run PEFT models, see inference code below)](https://huggingface.co/metunlp)
 
