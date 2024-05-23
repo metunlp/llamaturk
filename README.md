@@ -1,3 +1,5 @@
+![metu odtu](metu.png)
+
 # LlamaTurk: Adapting Open-Source Generative Large Language Models for Low-Resource Language
 
 [Paper](https://arxiv.org/abs/2405.07745)
