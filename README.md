@@ -1,4 +1,4 @@
-![llamaturk](llamaturk.png)
+![llamaturk](llamaturk.jpeg)
 ![metu odtu](odtu_metu.png)
 
 # LlamaTurk: Adapting Open-Source Generative Large Language Models for Low-Resource Language
