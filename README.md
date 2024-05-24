@@ -1,5 +1,5 @@
-<img src="llamaturk.jpeg" width="164">
-![metu odtu](odtu_metu.png)
+<img src="llamaturk.jpeg" width="256">
+<img src="odtu_metu.png" width="256">
 
 # LlamaTurk: Adapting Open-Source Generative Large Language Models for Low-Resource Language
 
