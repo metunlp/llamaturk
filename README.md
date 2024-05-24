@@ -1,5 +1,5 @@
-<img src="llamaturk.jpeg" width="400">
-<img src="odtu_metu.png" width="400">
+<img src="llamaturk.jpeg" align="center" width="400">
+<img src="odtu_metu.png" align="center" width="600">
 
 # LlamaTurk: Adapting Open-Source Generative Large Language Models for Low-Resource Language
 
