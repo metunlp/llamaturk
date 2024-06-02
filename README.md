@@ -1,4 +1,4 @@
-<p align="center"><img src="llamaturk.jpeg" width="400"></p>
+<p align="center"><img src="llamaturk.png" width="400"></p>
 <p align="center"><img src="odtu_metu.png" width="600"></p>
 
 # LlamaTurk: Adapting Open-Source Generative Large Language Models for Low-Resource Language
