@@ -17,6 +17,8 @@
 
 [Evaluation benchmark dataset: XCOPA](https://huggingface.co/datasets/xcopa/viewer/tr)
 
+[Tokenizer used in vocabulary extension](bpe_28k_oscar_tr_tokenizer.json)
+
 [Source code for instruction fine-tuning](src/finetune_instruction.py)
 
 [Source code for task-specific fine-tuning](src/finetune_task.py)
