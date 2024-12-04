@@ -35,12 +35,19 @@
 
 Citation:
 ```
-@misc{toraman2024llamaturk,
-      title={LlamaTurk: Adapting Open-Source Generative Large Language Models for Low-Resource Language}, 
-      author={Cagri Toraman},
-      year={2024},
-      eprint={2405.07745},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@inproceedings{toraman-2024-adapting,
+    title = "Adapting Open-Source Generative Large Language Models for Low-Resource Languages: A Case Study for {T}urkish",
+    author = "Toraman, Cagri",
+    editor = {S{\"a}lev{\"a}, Jonne  and
+      Owodunni, Abraham},
+    booktitle = "Proceedings of the Fourth Workshop on Multilingual Representation Learning (MRL 2024)",
+    month = nov,
+    year = "2024",
+    address = "Miami, Florida, USA",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.mrl-1.3",
+    doi = "10.18653/v1/2024.mrl-1.3",
+    pages = "30--44",
+    abstract = "Despite advancements in English-dominant generative large language models, further development is needed for low-resource languages to enhance global accessibility. The primary methods for representing these languages are monolingual and multilingual pretraining. Monolingual pretraining is expensive due to hardware requirements, and multilingual models often have uneven performance across languages. This study explores an alternative solution by adapting large language models, primarily trained on English, to low-resource languages. We assess various strategies, including continual training, instruction fine-tuning, task-specific fine-tuning, and vocabulary extension. The results show that continual training improves language comprehension, as reflected in perplexity scores, and task-specific tuning generally enhances performance of downstream tasks. However, extending the vocabulary shows no substantial benefits. Additionally, while larger models improve task performance with few-shot tuning, multilingual models perform worse than their monolingual counterparts when adapted.",
 }
 ```
